@@ -3,6 +3,10 @@
 
 ---
 
+## Solution Output
+
+![alt text](writeup_images/ezgif.com-video-to-gif.gif)
+
 **Vehicle Detection Project**
 
 The goals / steps of this project are the following:
