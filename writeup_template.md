@@ -16,18 +16,18 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[imageA]: .writeup_images/1.PNG "code"
-[imageB]: .writeup_images/2.PNG "code"
-[imageC]: .writeup_images/3.PNG "code"
-[imageD]: .writeup_images/4.PNG "code"
-[imageE]: .writeup_images/5.PNG "code"
-[imageF]: .writeup_images/6.PNG "code"
-[imageG]: .writeup_images/7.PNG "code"
-[imageH]: .writeup_images/8.PNG "code"
-[imageI]: .writeup_images/9.PNG "code"
-[imageJ]: .writeup_images/10.PNG "code"
-[imageK]: .writeup_images/11.PNG "code"
-[imageL]: .writeup_images/12.PNG "code"
+[imageA]: ./writeup_images/1.PNG "code"
+[imageB]: ./writeup_images/2.PNG "code"
+[imageC]: ./writeup_images/3.PNG "code"
+[imageD]: ./writeup_images/4.PNG "code"
+[imageE]: ./writeup_images/5.PNG "code"
+[imageF]: ./writeup_images/6.PNG "code"
+[imageG]: ./writeup_images/7.PNG "code"
+[imageH]: ./writeup_images/8.PNG "code"
+[imageI]: ./writeup_images/9.PNG "code"
+[imageJ]: ./writeup_images/10.PNG "code"
+[imageK]: ./writeup_images/11.PNG "code"
+[imageL]: ./writeup_images/12.PNG "code"
 
 
 
